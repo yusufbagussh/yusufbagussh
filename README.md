@@ -1,6 +1,6 @@
 # Hi My Name is Bagus and Some People Call Me Mas Bag 👋
 ## About me:
-- 🔭 I’m currently studying at Informatics Engginering of Sebelas Maret University
+- 🔭 I’m currently studying at Informatic Engginering of Sebelas Maret University
 - 🤔 My interests  is web programming
 - 🌱 I’m currently learning PHP and JavaScript
 - 💻 I like to build web app with laravel and codeigniter
