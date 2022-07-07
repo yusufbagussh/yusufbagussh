@@ -26,8 +26,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <img align="left" alt="mySql" width="50px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" style="padding-right:10px;" />
-<br>
-<br />
+<br><br>
 
 ## Connect with me:
 
