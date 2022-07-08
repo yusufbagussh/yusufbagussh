@@ -9,13 +9,13 @@
 
 ## Education:
 
-#### 1. [Universitas Sebelas Maret Surakarta](https://uns.ac.id/) | Informatics Engineering of Diploma | Surakarta `2020-now`
+#### 1. [Universitas Sebelas Maret Surakarta](https://uns.ac.id/) | Informatics Engineering of Diploma | Surakarta `2020-Present`
 #### 2. [SMA N 1 Sukorhajo](https://www.sman1sukoharjo.sch.id/) | MIPA | Sukoharjo `2017-2020`
 
 ## Work Experience:
-#### 1. [Project Web App "Rental Kamera Online"]() | 2nd semester |  `2021`
-#### 2. [Project Web App "Perpustakaan Daerah"]() | 3nd semester| `2021`
-#### 3. [Project Web App "Survey Kepuasan Masyarakat Kabupaten Wonogiri"](http://203.6.149.156:8028/) | 4nd semester project (Project Based Learning) | `2022`
+#### 1. [Leader and Backend in My Team Project 2nd Semester]() | Yusasi Team |  `2021`
+#### 2. [Backend Project in My Team Project 3nd Semester]() | Perpusda Team | `2021`
+#### 3. [Project Manager and Backend in My Team Project at Intership](http://203.6.149.156:8028/) | Diskominfo Wonogiri | `2022`
 
 ## Languages and Tools:
 
@@ -34,7 +34,7 @@
   <a href="https://wa.me/6289670198915?text=Hai...">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>
-  <a href="https://instagram.com/bagus_herlambang36">
+  <a href="https://instagram.com/yusufbagussh">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>
 </p>
