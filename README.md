@@ -13,9 +13,9 @@
 #### 2. [SMA N 1 Sukorhajo](https://www.sman1sukoharjo.sch.id/) | MIPA | Sukoharjo `2017-2020`
 
 ## Work Experience:
-#### 1. [Build Web App "Rental Kamera Online"]() | 2nd semester project |  `2021`
-#### 2. [Build Web App "Perpustakaan Daerah"]() | 3nd semester project | `2021`
-#### 3. [Build Web App "Survey Kepuasan Masyarakat Kabupaten Wonogiri"](http://203.6.149.156:8028/) | 4nd semester project (Project Based Learning) | `2022`
+#### 1. [Project Web App "Rental Kamera Online"]() | 2nd semester |  `2021`
+#### 2. [Project Web App "Perpustakaan Daerah"]() | 3nd semester| `2021`
+#### 3. [Project Web App "Survey Kepuasan Masyarakat Kabupaten Wonogiri"](http://203.6.149.156:8028/) | 4nd semester project (Project Based Learning) | `2022`
 
 ## Languages and Tools:
 
