@@ -10,7 +10,7 @@
 ## Education:
 
 #### 1. [Universitas Sebelas Maret Surakarta](https://uns.ac.id/) | Informatics Engineering of Diploma | Surakarta `2020-Present`
-#### 2. [SMA N 1 Sukorhajo](https://www.sman1sukoharjo.sch.id/) | MIPA | Sukoharjo `2017-2020`
+#### 2. [SMA N 1 Sukorhajo](https://www.sman1sukoharjo.sch.id/) | Mathematic and Natural Science | Sukoharjo `2017-2020`
 
 ## Work Experience:
 #### 1. [Leader and Backend in My Team Project 2nd Semester]() | Yusasi Team |  `2021`
