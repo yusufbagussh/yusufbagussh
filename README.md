@@ -49,6 +49,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufbagussh&show_icons=true&locale=en" alt="yusufbagussh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufbagussh&" alt="yusufbagussh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufbagussh&" alt="yusufbagussh" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufbagussh" alt="yusufbagussh" /></a> </p>
