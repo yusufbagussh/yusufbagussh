@@ -16,6 +16,7 @@
 #### 1. [Leader and Backend in My Team Project 2nd Semester]() | Yusasi Team |  `2021`
 #### 2. [Backend Project in My Team Project 3nd Semester]() | Perpusda Team | `2021`
 #### 3. [Project Manager and Backend in My Team Project at Intership](http://203.6.149.156:8028/) | Diskominfo Wonogiri | `2022`
+#### 4. [Staff Economic Creative]() | Emailkomp UNS | `2021`
 
 ## Languages and Tools:
 
