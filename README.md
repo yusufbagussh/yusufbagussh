@@ -47,7 +47,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufbagussh&show_icons=true&locale=en&layout=compact" alt="yusufbagussh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufbagussh&show_icons=true&locale=en" alt="yusufbagussh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufbagussh&show_icons=true&locale=en" alt="yusufbagussh" /></p><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufbagussh&" alt="yusufbagussh" /></p>
 
