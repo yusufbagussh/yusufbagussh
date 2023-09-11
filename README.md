@@ -12,7 +12,7 @@
 
 ## Education:
 
-#### 1. [Universitas Sebelas Maret Surakarta](https://uns.ac.id/) | Informatics Engineering of Diploma | Surakarta `2020-Present`
+#### 1. [Universitas Sebelas Maret Surakarta](https://uns.ac.id/) | Informatics Engineering of Diploma | Surakarta `2020-2023`
 #### 2. [SMA N 1 Sukorhajo](https://www.sman1sukoharjo.sch.id/) | Mathematic and Natural Science | Sukoharjo `2017-2020`
 
 ## Work Experience:
